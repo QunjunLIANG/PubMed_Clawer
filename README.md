@@ -9,7 +9,7 @@ I wrote this script for checking the publish of our group. But I decided to git 
 3. PubMed_Clawer also does some visualization, which use wordcloud to show the frequency of journal names.
 
 # Notes before using
-1. PubMed_Clawer requires #selenium# to control the browser, please make sure selenium has been install properly in your OS.
-2. PubMed_Clawer also needs the java environment because of the dependent package rJAVA.
+1. PubMed_Clawer requires *[selenium](https://www.selenium.dev/downloads/)* to control the browser, please make sure selenium has been install properly in your OS.
+2. PubMed_Clawer also needs the java environment to run rJAVA.
 3. PubMed_Clawer uses the GUI in Rstudio, so do not run PubMed_Clawer with other IDEs.
-4. PubMed_Clawer just be tested on windows 10.
+4. PubMed_Clawer just be tested on windows 10 platform.
